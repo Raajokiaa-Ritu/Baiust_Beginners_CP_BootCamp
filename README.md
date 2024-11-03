@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Baiust_Beginners_CP_BootCamp</title>
+#Baiust_Beginners_CP_BootCamp
 </head>
   
 <h3>all codes and resources related to competitive programming for a beginner</h3>
