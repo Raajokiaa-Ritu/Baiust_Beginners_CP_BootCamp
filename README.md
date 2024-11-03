@@ -7,3 +7,6 @@ all codes and resources related to competitive programming for a beginner.
 Topics:
 1. Data Types: Who the hell are you??
 
+
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a> 
+
