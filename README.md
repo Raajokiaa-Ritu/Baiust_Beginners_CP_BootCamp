@@ -1,6 +1,9 @@
-# Baiust_Beginners_CP_BootCamp
-
-all codes and resources related to competitive programming for a beginner.
+<html>
+<head>
+<title>Baiust_Beginners_CP_BootCamp</title>
+</head>
+  
+<h3>all codes and resources related to competitive programming for a beginner</h3>
 
 --> Course Link: <a href="https://docs.google.com/document/d/1xn_oqUbaBYkdDXdQ_vhA4ZCBBA_ql4WMFPyWR5uyWW4/edit?tab=t.0 " target="_blank">Visit Syllabus</a> 
 
@@ -10,5 +13,5 @@ Topics:
 --> Password: Ask Me!
 
 
-
+</html>
 
