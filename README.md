@@ -9,7 +9,7 @@
 
 Topics:
 1. Data Types: Who the hell are you??
---> Contest Link : <a href="https://vjudge.net/contest/669298" target="_blank">Contest-1 : Familiar With Data Types & Operators</a>
+--> Contest Link : <a href="https://vjudge.net/contest/669298" target="_blank">Contest-1 : Familiar With Data Types & Operators</a> <br>
 --> Password: Ask Me!
 
 
