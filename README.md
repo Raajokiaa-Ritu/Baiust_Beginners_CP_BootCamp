@@ -1,11 +1,11 @@
 <html>
 <head>
-#Baiust_Beginners_CP_BootCamp
+#Baiust_Beginners_CP_BootCamp <br>
 </head>
 Website Link: 
-<h1>
+<h2>
   <a href="https://baiustcp.blogspot.com/" target="_blank">Competitive Programmers of Baiust</a> 
-</h1>
+</h2>
   
 <h3>all codes and resources related to competitive programming for a beginner</h3>
 
