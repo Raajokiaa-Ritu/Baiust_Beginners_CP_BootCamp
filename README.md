@@ -10,8 +10,8 @@
 Topics:
 1. Data Types: Who the hell are you??
 --> Contest Link : <a href="https://vjudge.net/contest/669298" target="_blank">Contest-1 : Familiar With Data Types & Operators</a> <br>
---> Password: Ask Me!
-
+--> Password: Ask Me!  <br> 
+--> ACM Lecture:<a href="https://docs.google.com/presentation/d/1wES7FplQBvMnwS8Qhn0FozkuCDORonklh_69ShIdl3s/edit?usp=sharing" target="_blank">First Lecture</a> <br> 
 
 </html>
 
